@@ -1,0 +1,3 @@
+-> first command to run:npm install
+-> second command to run:npm start
+-> after that we are able to access the API's in browser or postman.and any other software through you wanna be check out the Api's: 
